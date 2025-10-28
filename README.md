@@ -141,8 +141,3 @@ It highlights how future AI workflows may evolve — replacing repetitive human 
 * 📊 Include analytics dashboard for content metrics
 
 
-
----
-
-Would you like me to also create a **`requirements.txt`** for this project (with the correct versions of CrewAI, LangChain, Gradio, Groq, dotenv, etc.) so your GitHub repo looks complete?
-```
